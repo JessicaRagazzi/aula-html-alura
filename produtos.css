@@ -1,5 +1,5 @@
 header {
-    background: #BBBBBB
+    background: #6e6e6e
     padding: 20px 0;
 }
 
@@ -41,4 +41,18 @@ nav a{
     width: 30%;
     vertical-align: top;
 
+}
+
+.produtos h2 {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.produto-descricao {
+    font-size: 18px;
+}
+
+.produto-preco{
+    font-size: 22px;
+    font-weight: bold;
 }
