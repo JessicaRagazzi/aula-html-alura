@@ -1,12 +1,12 @@
 header {
-    background: #6e6e6e
+    background: #BBBBBB
     padding: 20px 0;
 }
 
 .caixa{
     position: relative;
     width: 940px;
-    margin: 0px auto;
+    margin: 0 auto;
 }
 
 nav {
