@@ -1,4 +1,4 @@
-header{
+header {
     background: #BBBBBB
     padding: 20px 0;
 }
@@ -29,3 +29,16 @@ nav a{
     text-decoration: none;
 }
 
+.produtos {
+    width: 940px;
+    margin: 0px auto;
+    padding: 50px, 0; 
+}
+
+.produtos li {
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    vertical-align: top;
+
+}
