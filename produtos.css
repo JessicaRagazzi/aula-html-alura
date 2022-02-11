@@ -78,3 +78,9 @@ nav a:hover{
     font-weight: bold;
     margin: 10px 0 0;
 }
+
+footer{
+    text-align: center;
+    background-color: #CCCCCC;
+    padding: 40px 0;
+}
